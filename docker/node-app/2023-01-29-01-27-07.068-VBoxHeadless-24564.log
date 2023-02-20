@@ -1,0 +1,12 @@
+Log created: 2023-01-29T01:27:07.684159000Z
+Process ID:  24564 (0x5ff4)
+Parent PID:  6349 (0x18cd)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: docker_default_1674700500324_42568
+Arg[3]: --startvm
+Arg[4]: bda88093-0a1e-422b-b18d-84434949c31e
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2

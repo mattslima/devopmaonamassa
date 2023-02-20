@@ -1,0 +1,9 @@
+global:
+  scrape_interval: 10s
+  scrape_timeout: 5s
+  evaluation_interval: 10s
+scrape_configs:
+  - job_name: prometheus_node
+    static_configs:
+      - targets: ['192.168.56.10:9100']
+        

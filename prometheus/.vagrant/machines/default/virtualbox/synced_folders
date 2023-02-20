@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/matheus/Documents/courses/devopsmaonamassa/prometheus","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
